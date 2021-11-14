@@ -3,6 +3,9 @@
 ### Afk Checker VERISON:
 Simple Afk Checker That Checks if someone is afk
 
+### Skid CheckL
+If you have managed to decryypt it dont skid <3 
+
 ### Current Worked Benchmarks:
 - Working: `100%`
 - NotWorking: `0%`
