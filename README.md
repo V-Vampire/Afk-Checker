@@ -1,11 +1,11 @@
 # Afk-Checker
 
-### 8300  ACCOUNT NUKER  VERISON:
-its just simple accoutn nuker or can use it full closing dm and leaving server
+### Afk Checker VERISON:
+Simple Afk Checker That Checks if someone is afk
 
 ### Current Worked Benchmarks:
-- Working: `1000%`
-- NotWorking: `26%`
+- Working: `100%`
+- NotWorking: `0%`
 
 
 | SS OF THE TOOL| 
