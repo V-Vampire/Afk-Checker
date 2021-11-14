@@ -17,4 +17,4 @@ If you have managed to decryypt it dont skid <3
 
 | VIDEO OF THE TOOL| 
 | ------------- | 
-| !(https://usaupload.com/5jrx/Record_2021_11_13_11_15_32_878.mp4) |
+| ![image](https://usaupload.com/5jrx/Record_2021_11_13_11_15_32_878.mp4) |
