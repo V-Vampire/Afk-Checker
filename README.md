@@ -14,3 +14,7 @@ If you have managed to decryypt it dont skid <3
 | SS OF THE TOOL| 
 | ------------- | 
 | ![image](https://cdn.discordapp.com/attachments/909110198529044510/909294809221578782/unknown.png) |
+
+| VIDEO OF THE TOOL| 
+| ------------- | 
+| ![video](https://youtu.be/3Ch43GLQkQ4) |
